@@ -1,0 +1,6 @@
+@PolyRepoTestService1_HostAddress = http://localhost:5171
+
+GET {{PolyRepoTestService1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
